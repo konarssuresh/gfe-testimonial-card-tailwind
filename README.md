@@ -15,7 +15,7 @@ This is a simple challenge project from GreatFrontend Projects. The goal was to 
 
 ## Live Demo
 
-[Hosted Link - Coming Soon!]
+[Hosted Link](https://magical-crepe-4ac0b3.netlify.app/)
 
 ## License
 
